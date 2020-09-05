@@ -80,9 +80,13 @@
         <tr>
             <td><a>🔢 NumPy</a></td>
             <td><a>🐼 Pandas</a></td>
-            <td colspan="2"><a><img
+            <td colspan="1"><a><img
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png"
                         width="20rem"> Matplotlib</a>
+            </td>
+            <td colspan="1"><a><img
+                        src="https://static1.squarespace.com/static/541fdc96e4b0a6db31386559/541feccfe4b05046224ab841/5964d457f5e231ddc0ee20b5/1499781516254/color_SEABORN_circle.jpg?format=1500w"
+                        width="20rem"> Seaborn</a>
             </td>
         </tr>
         <tr>
