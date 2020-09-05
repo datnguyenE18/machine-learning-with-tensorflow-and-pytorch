@@ -15,12 +15,12 @@
                         thiệu & Mẹo
                     </a>
                 </td>
-                <td><a>📓 G-Colab Basic</a></td>
+                <td><a>📓 G-Colab cơ bản</a></td>
                 <td>
                     <a
                         href="https://colab.research.google.com/github/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/01-Google-Colab/VSCode_on_Google_Colab.ipynb">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"
-                            width="20rem"> VSCode on G-Colab</a>
+                            width="20rem"> VSCode trên G-Colab</a>
                 </td>
             </tr>
             <tr>
@@ -30,7 +30,7 @@
             </tr>
             <tr>
                 <td>
-                    <a>🐍 Python Basic</a>
+                    <a>🐍 Python cơ bản</a>
                 </td>
                 <td>
                     <a href="https://github.com/ProtonX-AI/learn-machine-learning-in-two-months/tree/master/python-tutorials"
@@ -39,6 +39,8 @@
                             width="20rem">
                         Python nâng cao</a>
                 </td>
+                <td>
+               </td>
             </tr>
         </tbody>
     </table>
