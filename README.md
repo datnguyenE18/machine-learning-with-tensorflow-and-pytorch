@@ -36,8 +36,8 @@
                 <a>🐍 Python cơ bản</a>
             </td>
             <td>
-                <a href="https://github.com/ProtonX-AI/learn-machine-learning-in-two-months/tree/master/python-tutorials"
-                    target="_blank">
+                <a
+                    href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/02-Python/python-tutorial.md">
                     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
                         width="20rem">
                     Python nâng cao</a>
