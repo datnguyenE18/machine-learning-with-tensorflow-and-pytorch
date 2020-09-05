@@ -25,6 +25,9 @@
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"
                         width="20rem"> VSCode trên G-Colab</a>
             </td>
+            <td>
+                <!-- None -->
+            </td>
         </tr>
         <tr>
             <th colspan="4" rowspan="1" class="ai-notebooks-table-points ai-orange-link">
@@ -32,18 +35,29 @@
             </th>
         </tr>
         <tr>
-            <td>
+            <td colspan="2">
                 <a>🐍 Python cơ bản</a>
             </td>
-            <td>
+            <td colspan="2">
                 <a
                     href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/02-Python/python-tutorial.md">
                     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
                         width="20rem">
                     Python nâng cao</a>
             </td>
-            <td>
-            </td>
+        </tr>
+        <tr>
+            <th colspan="4" rowspan="1" class="ai-notebooks-table-points ai-orange-link">
+                Library
+            </th>
+        </tr>
+        <tr>
+            <td><a>🔢 NumPy</a></td>
+            <td><a>🐼 Pandas</a></td>
+            <td><a><img src="https://raw.githubusercontent.com/madewithml/images/master/images/tensorflow.png"
+                        width="20rem"> TensorFlow</a></td>
+            <td><a><img src="https://raw.githubusercontent.com/madewithml/images/master/images/pytorch.png"
+                        width="20rem"> PyTorch</a></td>
         </tr>
     </tbody>
 </table>
