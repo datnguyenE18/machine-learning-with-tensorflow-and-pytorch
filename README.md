@@ -10,7 +10,7 @@
         <tr>
             <td>
                 <a
-                    href="https://colab.research.google.com/github/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/01-Google-Colab/Tips_Google_Colab.ipynb">
+                    href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/01-Google-Colab/Tips_Google_Colab.ipynb">
                     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="20rem"> Giới
                     thiệu & Mẹo
                 </a>
@@ -21,7 +21,7 @@
                     G-Colab cơ bản</a></td>
             <td colspan="2">
                 <a
-                    href="https://colab.research.google.com/github/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/01-Google-Colab/VSCode_on_Google_Colab.ipynb">
+                    href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/01-Google-Colab/VSCode_on_Google_Colab.ipynb">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"
                         width="20rem"> VSCode trên G-Colab</a>
             </td>
