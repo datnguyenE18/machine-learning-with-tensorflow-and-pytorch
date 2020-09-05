@@ -23,10 +23,22 @@
                             width="20rem"> VSCode on G-Colab</a>
                 </td>
             </tr>
-                <tr>
+            <tr>
                 <th colspan="4" rowspan="1" class="ai-notebooks-table-points ai-orange-link">
                     Python
                 </th>
+            </tr>
+            <tr>
+                <td>
+                    <a>🐍 Python Basic</a>
+                </td>
+                <td>
+                    <a href="https://github.com/ProtonX-AI/learn-machine-learning-in-two-months/tree/master/python-tutorials"
+                        target="_blank">
+                        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
+                            width="20rem">
+                        Python nâng cao</a>
+                </td>
             </tr>
         </tbody>
     </table>
