@@ -34,7 +34,9 @@
             </th>
         </tr>
         <tr>
-            <td><a><img src="https://www.epicentrofestival.com/wp-content/uploads/2020/02/epicentrofestival-calculation-mathematics-education-linear-algebra-c-icon-mathematics-f5ntpksu80.jpg"
+            <td><a
+                    href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/02-Math/Linear_Algebra.ipynb"><img
+                        src="https://www.epicentrofestival.com/wp-content/uploads/2020/02/epicentrofestival-calculation-mathematics-education-linear-algebra-c-icon-mathematics-f5ntpksu80.jpg"
                         width="20rem"> Đại
                     số tuyến tính</a></td>
             <td><a><img src="https://image.flaticon.com/icons/svg/1902/1902648.svg" width="20rem"> Giải tích</a></td>
@@ -58,7 +60,7 @@
             </td>
             <td colspan="3">
                 <a
-                    href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/02-Python/python-tutorial.md">
+                    href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/03-Python/python-tutorial.md">
                     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
                         width="20rem">
                     Python nâng cao</a>
