@@ -11,19 +11,18 @@
             <td>
                 <a
                     href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/01-Google-Colab/Tips_Google_Colab.ipynb">
-                    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="20rem"> Giới
-                    thiệu & Mẹo
+                    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="20rem"> Tổng quan về Google Colab 
                 </a>
             </td>
             <td>
                 <a
                     href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/01-Google-Colab/Notebooks.ipynb">📓
-                    G-Colab cơ bản</a></td>
+                    Google Colab cơ bản</a></td>
             <td colspan="2">
                 <a
                     href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/01-Google-Colab/VSCode_on_Google_Colab.ipynb">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"
-                        width="20rem"> VSCode trên G-Colab</a>
+                        width="20rem"> Visual Studio Code trên G-Colab</a>
             </td>
         </tr>
         <tr>
@@ -32,10 +31,10 @@
             </th>
         </tr>
         <tr>
-            <td colspan="2">
+            <td colspan="1">
                 <a>🐍 Python cơ bản</a>
             </td>
-            <td colspan="2">
+            <td colspan="3">
                 <a
                     href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/02-Python/python-tutorial.md">
                     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
