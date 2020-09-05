@@ -1,1 +1,1 @@
-# machine-learning-with-tensorflow-and-pytorch
+# Machine Learning with Tensorflow and Pytorch
