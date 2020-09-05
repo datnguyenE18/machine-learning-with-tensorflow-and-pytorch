@@ -80,9 +80,16 @@
         <tr>
             <td><a>🔢 NumPy</a></td>
             <td><a>🐼 Pandas</a></td>
-            <td><a><img src="https://raw.githubusercontent.com/madewithml/images/master/images/tensorflow.png"
+            <td colspan="2"><a><img
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png"
+                        width="20rem"> Matplotlib</a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="1"><a><img
+                        src="https://raw.githubusercontent.com/madewithml/images/master/images/tensorflow.png"
                         width="20rem"> TensorFlow</a></td>
-            <td><a><img src="https://raw.githubusercontent.com/madewithml/images/master/images/pytorch.png"
+            <td colspan="3"><a><img src="https://raw.githubusercontent.com/madewithml/images/master/images/pytorch.png"
                         width="20rem"> PyTorch</a></td>
         </tr>
         <tr>
