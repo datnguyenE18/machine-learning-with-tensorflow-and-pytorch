@@ -40,12 +40,18 @@
                         width="20rem"> Đại
                     số tuyến tính</a></td>
             <td><a><img src="https://image.flaticon.com/icons/svg/1902/1902648.svg" width="20rem"> Giải tích</a></td>
-            <td><a><img src="https://static.thenounproject.com/png/2615284-200.png" width="20rem"> Xác suất</a></td>
-            <td><a><img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/9454990961554897564-512.png"
+            <td><a
+                    href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/02-Math/Probability_in_Machine_Learning.ipynb"><img
+                        src="https://static.thenounproject.com/png/2615284-200.png" width="20rem"> Xác suất</a></td>
+            <td><a
+                    href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/02-Math/Statistical_in_Machine_Learning.ipynb"><img
+                        src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/9454990961554897564-512.png"
                         width="20rem"> Thống kê</a></td>
         </tr>
         <tr>
-            <td colspan="4"><a><img src="https://icon-library.com/images/math-icon/math-icon-21.jpg" width="20rem">
+            <td colspan="4"><a
+                    href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/02-Math/Math_Notation_in_Machine_Learning.ipynb"><img
+                        src="https://icon-library.com/images/math-icon/math-icon-21.jpg" width="20rem">
                     Ký hiệu toán học thường dùng trong Machine Learning</a></td>
         </tr>
         <!-- Python -->
