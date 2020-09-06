@@ -62,7 +62,9 @@
         </tr>
         <tr>
             <td colspan="1">
-                <a>🐍 Python cơ bản</a>
+                <a
+                    href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/03-Python/Python_Basic.ipynb">🐍
+                    Python cơ bản</a>
             </td>
             <td colspan="3">
                 <a
