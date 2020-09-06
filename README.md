@@ -144,7 +144,12 @@
       </th>
     </tr>
     <tr>
-      <td><a>🔢 NumPy</a></td>
+      <td>
+        <a
+          href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/04-Library/NumPy.ipynb"
+          >🔢 NumPy</a
+        >
+      </td>
       <td><a>🐼 Pandas</a></td>
       <td colspan="1">
         <a
