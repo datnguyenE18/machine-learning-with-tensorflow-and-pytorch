@@ -80,11 +80,13 @@
         <tr>
             <td><a>🔢 NumPy</a></td>
             <td><a>🐼 Pandas</a></td>
-            <td colspan="1"><a><img
+            <td colspan="1"><a
+                    href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/04-Library/Matplotlib_General_Concepts.ipynb"><img
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png"
                         width="20rem"> Matplotlib</a>
             </td>
-            <td colspan="1"><a><img
+            <td colspan="1"><a
+                    href="https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch/blob/master/04-Library/Seaborn.ipynb"><img
                         src="https://static1.squarespace.com/static/541fdc96e4b0a6db31386559/541feccfe4b05046224ab841/5964d457f5e231ddc0ee20b5/1499781516254/color_SEABORN_circle.jpg?format=1500w"
                         width="20rem"> Seaborn</a>
             </td>
